@@ -8,6 +8,7 @@ videos, modules, units of the course on the site. The courses include both paid 
 For the paid courses, two payment options have been integrated : 
   1. Paypal  
   2. Razorpay
+  
 Both the payment options are currently in test mode.
 
 The students can view the courses according to their convinence. Once the course is completed along with all the quizez provided, an 
